@@ -1,0 +1,16 @@
+{
+  "window_width": 1000,
+  "window_height": 700,
+  "selection_x_normalized": 0.7776819923371647,
+  "selection_y_normalized": 0.5731800766283527,
+  "selection_w_normalized": 0.08160919540229887,
+  "selection_h_normalized": 0.399616858237548,
+  "image_scale": 1.2100000000000017,
+  "grid_rows": 5,
+  "grid_cols": 1,
+  "cut_border": true,
+  "preview_mode": true,
+  "pdf_preset": "A4",
+  "pdf_width_spin": 21.0,
+  "pdf_height_spin": 29.7
+}
